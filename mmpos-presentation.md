@@ -45,11 +45,8 @@ Le principe est le même que Hiveos. Les principales différences :
 Ca s'installe comme hiveos
 
 - Télécharger l'IMG : https://download.mmpos.eu/images/mmp-latest.img.xz
-
 - La flasher (avec Balena Etcher par exemple) sur le disque dur, SSD ou clé USB qui sera sur votre rig et booter en étant connecté au réseau. L'IP locale du rig va apparaître à l'écran du rig.
-
 - Sur un PC connecté au même réseau local que votre rig, créez votre compte sur https://app.mmpos.eu et connectez-vous.
-
 - Allez dans Rigs pour en ajouter un nouveau, entrez l'IP qui s'affiche sur votre rig et il se liera à votre compte 😉
 
 Et voilà, plus qu'à enregistrer vos wallets et créer vos flight sheets ! (Appelées mining profiles)
@@ -57,3 +54,7 @@ Et voilà, plus qu'à enregistrer vos wallets et créer vos flight sheets ! (App
 ## Mot de passe du rig par défaut :
 user : miner
 mdp : mmpOS
+
+# Envie de le tester ? :)
+
+Mon referral code mmpOS : 9PT-FXW5-H50
