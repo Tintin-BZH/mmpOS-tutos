@@ -65,3 +65,6 @@ Note : pool qubic.li. Mais on peut sûrement paramétrer la pool communautaire a
 ## Autres mineurs custom (rqiner, apoolminer...)
 Dispo ici : https://github.com/ddobreff/mmp-profiles/releases/
 Importez directement le fichier .json voulu comme miner profile.
+
+#Ce tuto vous a donné envie de tester mmpOS ? :)
+Mon referral code mmpOS : 9PT-FXW5-H50
