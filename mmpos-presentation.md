@@ -18,7 +18,7 @@ Les inconvénients qu'il peut y avoir :
 - Pas de schedule ? (J'ai pas trop cherché)
 - Pas en Français 😛
 
-€# Combien ça coûte ?
+## Combien ça coûte ?
 
 C'est ce qui m'a fait passer chez eux, j'avais 3 rigs mais 4 GPU (config pour miner Qubic et Warthog)
 En résumé, le tarif dépend du nombre de GPU que vous possédez :
@@ -30,12 +30,33 @@ La tarification fonctionne avec un nombre de crédits.
 Un GPU allumé consomme 1 crédit par jour. De base, vous avez 8 crédits offerts par jour (14 après un premier achat.)
 En créant votre compte, vous avez 180 crédits, qui ne descendront donc pas tant que vous n'avez pas plus de 8 GPU en marche. Et ça reste gratuit tant que vous ne les avez pas épuisés 😉
 
+![Tarifs](/IMG/mmpos-prix.png)
+
 ## A quoi ça ressemble ?
-Quelques screenshots :
+
+![Dashboard](/IMG/mmpos-dashboard.png)
+
+![Rigs](/IMG/mmpos-rigs.png)
+
+![Rigs](/IMG/mmpos-rigs02.png)
 
 Le principe est le même que Hiveos. Les principales différences :
-- Les flight sheets sont appelées miner profiles
-- La liste des pools se crée manuellement.
+
+Les flight sheets sont appelées miner profiles
+
+![Profils](/IMG/mmpos-profiles01.png)
+
+![Profils](/IMG/mmpos-profiles02_1.png)
+
+![Profils](/IMG/mmpos-profiles02_2.png)
+ 
+La liste des pools se crée manuellement. Quand vous créez une pool, elle contient :
+- Le coin miné
+- L'adresse et le port de la pool
+- L'adresse de votre wallet
+
+![Pools](/IMG/mmpos-pools.png)
+  
 - L'overclocking est plus complet (Core clock, core offset, mem clock, mem offset)
 - une flight sheet = un mineur, en gros on peut appliquer plusieurs flight sheets à son rig (une nvidia + une AMD + une CPU par exemple)
 - Pour les bidouilleurs, les flight sheets sont plus complètes. On peut y modifier la commande d'exécution du mineur, et choisir une autre commande à exécuter au démarrage de la FS (overclocking, mise à jour, lancement d'un node... )
